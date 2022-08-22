@@ -1,0 +1,3 @@
+[submodule "denemeSubModule4"]
+	path = denemeSubModule4
+	url = https://github.com/atabeg1/denemeSubModule4.git
